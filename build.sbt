@@ -1,7 +1,7 @@
 import Settings.*
 
 ThisBuild / scalaVersion := Versions.scala2_12
-ThisBuild / organization := "cloud.golem"
+ThisBuild / organization := "io.github.danieletorelli"
 
 lazy val root = (project in file("."))
   .settings(
