@@ -1,3 +1,8 @@
+![license](https://img.shields.io/github/license/danieletorelli/sbt-was-component?style=for-the-badge)
+[![build](https://img.shields.io/github/actions/workflow/status/danieletorelli/sbt-wasm-component/ci.yml?branch=main&style=for-the-badge)](https://github.com/danieletorelli/sbt-wasm-component/actions?query=workflow%3A%22CI%22+branch%3Amain)
+[![release](https://img.shields.io/github/v/release/danieletorelli/sbt-component-release?style=for-the-badge)](https://github.com/danieletorelli/librespeed-cli/releases/latest)
+![version](https://img.shields.io/maven-central/v/io.github.danieletorelli/sbt-wasm-component?style=for-the-badge)
+
 sbt-wasm-component
 ==================
 
