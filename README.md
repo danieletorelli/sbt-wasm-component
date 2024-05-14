@@ -14,7 +14,7 @@ Setup
 Add sbt-wasm-component as a dependency in `project/plugins.sbt`:
 
 ```scala
-addSbtPlugin("cloud.golem" % "sbt-wasm-component" % "x.y.z")
+addSbtPlugin("io.github.danieletorelli" % "sbt-wasm-component" % "x.y.z")
 ```
 
 Usage
@@ -28,6 +28,7 @@ ThisBuild / scalaVersion := "2.13.13"
 
 lazy val root = (project in file("."))
   .enablePlugins(WasmComponentPlugin)
+  .settings(wasmComponentPackageName := "example")
 ```
 
 Then you will be able to annotate your Golem worker object with the `@cloud.golem.WitExport` annotation:
