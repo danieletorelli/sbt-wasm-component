@@ -1,7 +1,7 @@
-![license](https://img.shields.io/github/license/danieletorelli/sbt-was-component?style=for-the-badge)
+![license](https://img.shields.io/github/license/danieletorelli/sbt-wasm-component?style=for-the-badge)
 [![build](https://img.shields.io/github/actions/workflow/status/danieletorelli/sbt-wasm-component/ci.yml?branch=main&style=for-the-badge)](https://github.com/danieletorelli/sbt-wasm-component/actions?query=workflow%3A%22CI%22+branch%3Amain)
-[![release](https://img.shields.io/github/v/release/danieletorelli/sbt-component-release?style=for-the-badge)](https://github.com/danieletorelli/librespeed-cli/releases/latest)
-![version](https://img.shields.io/maven-central/v/io.github.danieletorelli/sbt-wasm-component?style=for-the-badge)
+[![release](https://img.shields.io/github/v/release/danieletorelli/sbt-wasm-component?style=for-the-badge)](https://github.com/danieletorelli/sbt-component-release/releases/latest)
+![version](https://img.shields.io/nexus/r/io.github.danieletorelli/sbt-wasm-component_2.12_1.0?server=https%3A%2F%2Fs01.oss.sonatype.org&style=for-the-badge)
 
 sbt-wasm-component
 ==================
